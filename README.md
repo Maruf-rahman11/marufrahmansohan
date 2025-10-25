@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co.com/zHYWsKH/github-banner.png" width="100%" alt="Maruf Rahman Sohan Banner">
+<img src="https://i.ibb.co.com/twRBmfrG/web-cover.jpg" width="100%" alt="Maruf Rahman Sohan Banner">
 
 <h1 align="center">👋 Hi, I'm Maruf Rahman Sohan</h1>
 <h3 align="center">💻 Web Developer | MERN Stack Developer | Graphics Designer</h3>
